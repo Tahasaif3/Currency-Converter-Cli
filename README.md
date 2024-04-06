@@ -5,7 +5,7 @@ This is a simple command-line tool that allows you to convert currencies using c
 ## Features
 
 - Convert from one currency to another
-- Supports USD, EUR, GBP, INR, and PKR currencies
+- Supports USD, EUR, GBP, INR, PKR, JPY, CAD, AUD, CNY, CHF, RUB currencies
 - Provides formatted output of the converted amount
 
 ## Installation
